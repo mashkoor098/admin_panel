@@ -1,0 +1,8 @@
+.detals_msg{
+    grid-template-columns: 1fr;
+  }
+
+
+.recentCustomers {
+    margin: 40px;
+}
